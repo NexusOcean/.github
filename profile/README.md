@@ -13,14 +13,6 @@ NexusOcean builds blockchain infrastructure and full-stack applications with a s
 
 ---
 
-### Open Projects
-
-| Project | Description |
-|---|---|
-| [FiroBlocks](https://firoblocks.app) | A privacy-focused Firo block explorer built on self-managed infrastructure |
-
----
-
 ### Get in Touch
 
 - Website: [nexusocean.io](https://nexusocean.io)
@@ -28,4 +20,3 @@ NexusOcean builds blockchain infrastructure and full-stack applications with a s
 ### Community
 
 - Chat: [#general:nexusocean.org](https://matrix.to/#/#general:nexusocean.org)
-- Matrix client: [element.nexusocean.org](https://element.nexusocean.org)
